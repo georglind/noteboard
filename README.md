@@ -4,7 +4,7 @@ Small LaTeX project for setting up portraits for the Condensed Matter Theory not
 Here is how it works:
 
 1. Add images to pictures folder.
-2. Insert the following in (people.tex): 
+2. Insert the following in [people.tex](people.tex): 
 	``\person{path/to/file}{Name of person}{Office}{Scientific subject}`` 
 3. Compile ``people.tex`` to pdf using xelatex. 
  
